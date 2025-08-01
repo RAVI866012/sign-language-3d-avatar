@@ -1,0 +1,50 @@
+# Written by MakeHuman 1.2.1 alpha
+version v1.2.1
+name my_human
+camera 20.0 354.0 -0.08586717429523366 0.12683207402636643 0.013904094521234969 0.7375
+modifier head/head-age-decr|incr -0.294000
+modifier head/head-fat-decr|incr 1.000000
+modifier head/head-invertedtriangular 0.365000
+modifier torso/torso-scale-depth-decr|incr -0.222000
+modifier torso/torso-scale-horiz-decr|incr 1.000000
+modifier torso/torso-scale-vert-decr|incr -0.162000
+modifier torso/torso-trans-in|out -0.174000
+modifier torso/torso-trans-backward|forward 0.054000
+modifier torso/torso-muscle-pectoral-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-distance-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-diameter-decr|incr 1.000000
+modifier armslegs/r-hand-fingers-length-decr|incr 1.000000
+modifier armslegs/r-hand-scale-decr|incr -1.000000
+modifier armslegs/r-hand-trans-in|out 1.000000
+modifier armslegs/l-hand-fingers-distance-decr|incr 1.000000
+modifier armslegs/l-hand-fingers-diameter-decr|incr -0.462000
+modifier armslegs/l-hand-fingers-length-decr|incr -0.318000
+modifier armslegs/l-hand-scale-decr|incr -0.210000
+modifier armslegs/l-hand-trans-in|out 1.000000
+modifier breast/BreastSize 1.000000
+modifier breast/BreastFirmness 1.000000
+modifier breast/breast-trans-down|up 1.000000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails/Age 0.904000
+modifier macrodetails/African 0.096000
+modifier macrodetails/Asian 0.097393
+modifier macrodetails/Caucasian 0.806607
+modifier macrodetails-universal/Muscle 1.000000
+modifier macrodetails-universal/Weight 0.749000
+modifier macrodetails-height/Height 0.772000
+modifier macrodetails-proportions/BodyProportions 0.784000
+modifier bodyshapes/bodyshapes-elvs-fem-full-hourglass 1.000000
+modifier measure/measure-neck-circ-decr|incr 1.000000
+modifier measure/measure-neck-height-decr|incr 1.000000
+skeleton default.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes fedora 566dbd52-71d1-4d76-a799-0474a5a384db
+clothes female_casualsuit01 a8b0e841-144b-4f03-8b9e-ea8fdce8c863
+clothes female_casualsuit02 9896f4a4-a718-4bdd-8482-52e1855160f6
+clothes male_casualsuit05 02e8aa01-466f-4eb4-a375-e209cb4a77d8
+clothes male_worksuit01 6afd98fa-381b-456f-aa46-3dd15b27b2f0
+clothes shoes01 6e0c552e-e207-44df-8f70-c9bfdeddd8c6
+clothesHideFaces True
+skinMaterial skins/old_african_female/old_african_female.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
